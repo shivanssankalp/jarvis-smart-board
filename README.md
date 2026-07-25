@@ -70,16 +70,6 @@ jarvis-smart-board/
 - **Frontend:** Vanilla HTML/CSS/JavaScript, served entirely from ESP32 flash — no external dependencies, no build step
 - **Networking:** ESP32 SoftAP + REST-style JSON API, polled via `fetch()`
 
-## Roadmap
-
-- [ ] MQTT integration for Home Assistant / Node-RED
-- [ ] OTA firmware updates
-- [ ] Real ambient temperature sensor (DS18B20 / DHT22)
-- [ ] Real power/current metering per channel
-- [ ] Companion mobile app (Android/iOS)
 
 
-
----
-
-*JARVIS Smart Board — by Shivans*
+*JARVIS Smart Board — by Shivans Sankalp*
